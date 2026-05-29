@@ -1,2 +1,2 @@
 # Traffic-Light-Control-System
-Basic working of Delay
+Basic working of delay, setup and arduino programming
